@@ -1,0 +1,9 @@
+Install pip manager (sudo apt-get -y install python3-pip)
+Install stramlit (sudo pip3 install streamlit)
+sudo pip3 install fer
+sudo pip3 install tensorflow
+sudo pip3 install sklearn
+
+To run the application (streamlit run App.py)
+
+Datasets/Music Recommendation/muse_v3.csv should be present.
